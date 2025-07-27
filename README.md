@@ -1,4 +1,4 @@
 # New-Repo
 This is my New Repository .
 <br>
-Author - Khan .
+Author - Anas Khan .
